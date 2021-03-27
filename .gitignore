@@ -1,0 +1,5 @@
+# for WebStorm
+/.idea
+/.DS_store
+node_modules/
+
